@@ -7,3 +7,6 @@ Descripción de mi persona
 ## Contact me
 
 Información de contacto
+
+## Hobbies
+- Dancing: ...
