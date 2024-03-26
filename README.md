@@ -9,4 +9,4 @@ Descripción de mi persona
 Información de contacto
 
 ## Hobbies
-- Dancing: ...
+- Dancing, playing
