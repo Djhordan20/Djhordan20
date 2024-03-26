@@ -7,3 +7,7 @@ Descripción de mi persona
 ## Contact me
 
 Información de contacto
+
+## Languages
+-English
+-Spanish
