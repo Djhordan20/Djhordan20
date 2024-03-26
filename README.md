@@ -9,5 +9,5 @@ Descripción de mi persona
 Información de contacto
 
 ## Languages
--English
--Spanish
+- English
+- Spanish
